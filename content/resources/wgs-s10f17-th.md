@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/wgs-s10-history-of-women-in-science-and-engineering-fall-2017/65be871069f7f190ffd8ed1362eb3651_wgs-s10f17-th.jpg
+file: /media/courses/wgs-s10-history-of-women-in-science-and-engineering-fall-2017/65be871069f7f190ffd8ed1362eb3651_wgs-s10f17-th.jpg
 file_type: image/jpeg
 image_metadata:
   caption: "MIT Chemical Engineering professor, Dr. Paula T. Hammond, depicted as\
@@ -12,6 +12,8 @@ image_metadata:
   credit: 'Image courtesy of Maia Weinstock on flickr. License: CC: BY-NC-SA.'
   image-alt: "Chemistry equipment and a female African-American scientist are depicted\
     \ in a Lego\xAE set. "
+learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: wgs-s10f17-th.jpg
 uid: 65be8710-69f7-f190-ffd8-ed1362eb3651
