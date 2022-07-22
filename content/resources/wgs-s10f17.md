@@ -13,6 +13,7 @@ image_metadata:
   image-alt: "Chemistry equipment and a female African-American scientist are depicted\
     \ in a Lego\xAE set. "
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: wgs-s10f17.jpg
