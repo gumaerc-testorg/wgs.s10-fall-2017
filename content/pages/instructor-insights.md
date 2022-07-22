@@ -1,16 +1,19 @@
 ---
 content_type: page
+description: This section contains insights from the instructor about how the course
+  was taught.
+draft: false
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 91f0fa7e-9bde-2d6a-638a-710fed0b1cb8
 ---
-
 {{< anchor "insights" >}}{{< /anchor >}}
 
-Instructor Insights
--------------------
+## Instructor Insights
 
-![Two women standing next to each other in an office. They are holding a framed lego mini figure.]({{< resource_file b6038f3a-b723-729a-6a81-4629282125a9 >}})
+{{< resource b6038f3a-b723-729a-6a81-4629282125a9 >}}
 
 Maia Weinstock (left) with Johnson Space Center director Ellen Ochoa and her LEGO minifigure. (Image by [Maia Weinstock](https://www.flickr.com/photos/pixbymaia/15260214766/in/album-72157624130595489/) on flickr. License: CC BY-NC-SA.).
 
@@ -56,8 +59,7 @@ In terms of LEGOs in the course, I sprinkled my own LEGO photos in with historic
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 
-Assessment
-----------
+## Assessment
 
 The students' grades were based on the following activities:
 
@@ -67,8 +69,7 @@ The students' grades were based on the following activities:
 - 10% Wikipedia article
 - 30% Final paper or project
 
-Curriculum Information
-----------------------
+## Curriculum Information
 
 ### Prerequisites
 
@@ -82,10 +83,11 @@ Elective
 
 Offered periodically; topics vary.
 
-Student Information
--------------------
+## Student Information
 
-![10 students took this course when it was taught in Fall 2017.]({{< resource_file d90bad32-bd07-3108-51eb-2d29e4187800 >}})
+### Enrollment
+
+10 students
 
 ### Breakdown by Year
 
@@ -101,24 +103,20 @@ About half of the students took the class for credit, while the other half audit
 
 {{< anchor "studenttime" >}}{{< /anchor >}}
 
-How Student Time Was Spent
---------------------------
+## How Student Time Was Spent
 
 During an average week, students were expected to spend 12 hours on the course, roughly divided as follows:
 
-In Class
---------
+### In Class
 
-*   Met 1 time per week for 3 hours per session; 13 sessions total.
-*   Seminar sessions included group discussions, lecture, and multimedia viewing.
-*   Students participated in local fieldtrips.
+- Met 1 time per week for 3 hours per session; 13 sessions total.
+- Seminar sessions included group discussions, lecture, and multimedia viewing.
+- Students participated in local fieldtrips.
 
-Out of Class
-------------
+### Out of Class
 
 Students completed readings and prepared reflective writing assignments outside of class. They also worked on midterm papers and final papers or projects.
 
-Reference:
-----------
+## Reference:
 
 Sobel, Dava. _The Glass Universe: How the Ladies of the Harvard Observatory Took the Measure of the Stars_. Penguin Books, 2017. ISBN: 9780143111344.
