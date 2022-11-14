@@ -49,8 +49,10 @@
   },
   "learning_resource_types": [
     "Presentation Assignments",
-    "Written Assignments"
+    "Written Assignments",
+    "Instructor Insights"
   ],
-  "site_uid": "f9383ae2-a918-41fc-8af0-032bde6a6381",
+  "site_uid": "5c67efb1-41d3-46c4-bac6-05b735c6b4f1",
+  "short_id": "wgs.s10-fall-2017",
   "title": "Course Metadata"
 }
