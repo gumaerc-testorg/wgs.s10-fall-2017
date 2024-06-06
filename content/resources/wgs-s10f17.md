@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/wgs-s10-history-of-women-in-science-and-engineering-fall-2017/a96965e0508a67321a7eb034cf908958_wgs-s10f17.jpg
+file_size: 21028
 file_type: image/jpeg
 image_metadata:
   caption: "MIT Chemical Engineering professor, Dr. Paula T. Hammond, depicted as\
