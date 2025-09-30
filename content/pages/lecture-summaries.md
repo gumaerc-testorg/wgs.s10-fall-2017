@@ -68,7 +68,7 @@ Pioneers & Laurels
 {{< tdopen >}}
 Who are some pioneering—and award-winning—STEM women that every historian of science should know? How can we celebrate Marie Curie’s accomplishments while avoiding pitfalls of the “hero effect”? How do awards recognize and validate women in the STEM fields? What problems/inequities exist in the way female scientists and engineers are and have been honored?
 
-Guest speaker: [Jen Myronuk](https://filmmakerscollab.org/members/profile/jen-myronuk/), filmmaker, will present her film _[Humanity Needs Dreamers: A Visit with Marie Curie](http://humanityneedsdreamers.org/)_. 
+Guest speaker: {{% resource_link "a7011893-aea6-4514-a2bf-fd0c05d94034" "Jen Myronuk" %}}, filmmaker, will present her film _{{% resource_link "17e6d376-5b1d-4288-8ae3-205c05d50178" "Humanity Needs Dreamers: A Visit with Marie Curie" %}}_. 
 
 
 {{< tdclose >}}
@@ -88,9 +88,9 @@ In what key ways have women contributed to the astronomical sciences? How have w
 
 Guest speakers:
 
-Lindsay Smith, Curator of the Astronomical Photographic Plate Collection at the [Harvard College Observatory](https://www.cfa.harvard.edu/hco)
+Lindsay Smith, Curator of the Astronomical Photographic Plate Collection at the {{% resource_link "5c787acf-d143-4e29-85a0-4a0f50b6ddbd" "Harvard College Observatory" %}}
 
-[Dava Sobel](http://www.davasobel.com/), author, who will discuss her book, _[The Glass Universe: How the Ladies of the Harvard Observatory Took the Measure of the Stars](https://www.penguinrandomhouse.com/books/315726/the-glass-universe-by-dava-sobel/9780143111344/)_. 
+{{% resource_link "eacf2c63-2a61-42f3-a5e4-32d928c77e2f" "Dava Sobel" %}}, author, who will discuss her book, _{{% resource_link "312a679b-28c6-48b8-a1e3-079dd23fac2e" "The Glass Universe: How the Ladies of the Harvard Observatory Took the Measure of the Stars" %}}_. 
 
 Field trip to the Harvard Observatory
 
@@ -170,7 +170,7 @@ STEM Women in Wikipedia/Edit-a-thon
 
 What is the representation of women in Wikipedia, both on the pages and in the editorship? How is Wikipedia like a microcosm of the larger tech world in terms of women’s inclusion? Why is representation on Wikipedia so important? What are some efforts attempting to close the gaps in STEM fields?
 
-Guest speaker: [Phoebe Ayers](http://phoebeayers.info/), MIT librarian, will answer questions about Wikipedia and assist in the crafting of new articles. 
+Guest speaker: {{% resource_link "424c7d1e-cf84-4816-96b3-8a009fe9a9f4" "Phoebe Ayers" %}}, MIT librarian, will answer questions about Wikipedia and assist in the crafting of new articles. 
 
 
 {{< tdclose >}}
@@ -194,7 +194,7 @@ Guest Speaker Debbie Douglas
 
 Who are some of the most notable/influential women to have taught, researched, and studied at MIT?
 
-Guest Speaker: Debbie Douglas, Director of Collections & Curator, Science & Technology at the [MIT Muesum](https://mitmuseum.mit.edu/)
+Guest Speaker: Debbie Douglas, Director of Collections & Curator, Science & Technology at the {{% resource_link "d83023db-dec1-4d6a-a1bb-901c3f4716d8" "MIT Muesum" %}}
 
 Field trip to the MIT Museum
 
@@ -220,7 +220,7 @@ Guest Speaker Prof. Sheila Widnall
 
 How have scientific and engineering professions changed for women in the past century? Where do problems remain? What can academia and industry improve on in terms of diversity and inclusion? How have events such as Ada Lovelace Day and the Intl. Day of Women in STEM affected public perceptions of women in the STEM fields?
 
-Guest speaker: [Sheila Widnall](http://aeroastro.mit.edu/faculty-research/faculty-list/sheila-widnall), MIT Institute Professor, Department of Aeronautics and Astronautics
+Guest speaker: {{% resource_link "179895ca-4b94-4964-a212-b9765ddd017a" "Sheila Widnall" %}}, MIT Institute Professor, Department of Aeronautics and Astronautics
 
 
 {{< tdclose >}}

@@ -8,8 +8,8 @@ image_metadata:
   caption: "MIT Chemical Engineering professor, Dr. Paula T. Hammond, depicted as\
     \ a Lego\xAE figurine. Dr. Hammond's work concerns the use of electrostatics to\
     \ generate functional materials with highly controlled architecture. (Image by\
-    \ [Maia Weinstock](https://www.flickr.com/photos/pixbymaia/16505483066/in/photolist-zf5v9m-r9wV5f-ykuxM4-yZKNmU-Cua95L)\
-    \ on flickr. License: CC BY-NC-SA.)"
+    \ {{% resource_link \"d841a300-f61d-44d5-8d72-53e5e7763c10\" \"Maia Weinstock\"\
+    \ %}} on flickr. License: CC BY-NC-SA.)"
   credit: 'Image by Maia Weinstock on flickr. License: CC: BY-NC-SA.'
   image-alt: "Chemistry equipment and a female African-American scientist are depicted\
     \ in a Lego\xAE set. "
